@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "id": 1,
+      "message": "Mac book set up for Chirag Patel - done",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-02-08T20:50:42.069Z"
     },
     {
-      "message": "1122 wireless down",
+      "message": "Network access to Chirag patel",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-02-08T19:46:28.833Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "VPN access to Chirag - still not working",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "date": "2020-02-08T20:50:57.884Z"
     }
   ],
   "techs": [
