@@ -1,3 +1,8 @@
+This react project is developed using redux. it allows to add IT support tickets, technicians etc..
+It uses JSON server as local db.. clone the github repor and run following command
+
+### `yarn dev`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
